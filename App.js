@@ -45,6 +45,4 @@ export default class App extends PureComponent{
     
     alert(`x1= ${x1} \nx2= ${x2}`);
   }
-
-
 }
